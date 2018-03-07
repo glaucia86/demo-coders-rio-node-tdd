@@ -4,8 +4,8 @@ Desenvolvimento de duas demos para a palestra da 7ª Edição do Meetup do Coder
 
 ## Recursos Utilizados no Desenvolvimento:
 
-- Node.Js  v. 6.11.2
-- Mocha.Js v. 3.5.3
+- Node.Js  v. 8.x
+- Mocha.Js v. 5.0.2
 - Chai.Js v. 4.1.2
 - Visual Studio Code (IDE)
 - Code Metrics; (análise de desenvolvimento do código)
